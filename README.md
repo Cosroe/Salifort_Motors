@@ -1,3 +1,3 @@
-# [Salifort Motors HR Project](Salifort Motors.ipynb)
+# Salifort Motors HR Project
 
-In this capstone project, an HR dataset is used to analyze and predict employee churn.
+In this capstone [project](Salifort Motors.ipynb), an HR dataset is used to analyze and predict employee churn.
